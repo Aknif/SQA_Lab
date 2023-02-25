@@ -1,8 +1,8 @@
 # SQA_Lab
 software quality assurance (SQA) - Lab
-_
-Lab1 - Setup robot framework & selenium_
-Lab2 - Test scenarios & Test cases_
+<br />
+Lab1 - Setup robot framework & selenium<br />
+Lab2 - Test scenarios & Test cases<br />
 Lab3 - Test design & Repeated tests_
 Lab4 - Boundary value analysis & Robustness testing_
 Lab5 - Equivalence Class Testing_
