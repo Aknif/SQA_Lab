@@ -1,4 +1,4 @@
-# SQA_Lab
+# SQA Lab
 software quality assurance (SQA) - Lab
 <br /><br />
 Lab1 - Setup robot framework & selenium<br />
@@ -14,3 +14,4 @@ Lab10 - Basic API Testing with Postman<br />
 Lab11 - Automated user acceptance testing (UAT) using Robot framework<br />
 Lab12 - Non-functional Testing<br />
 Lab13 - Test-driven development (TDD)<br />
+Project - Analyze the quality of the software on web reporeapers<br />
