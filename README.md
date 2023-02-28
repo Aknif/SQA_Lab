@@ -1,5 +1,6 @@
 # SQA Lab
 software quality assurance (SQA) - Lab
+By Apichai Tuppoota
 <br /><br />
 Lab1 - Setup robot framework & selenium<br />
 Lab2 - Test scenarios & Test cases<br />
